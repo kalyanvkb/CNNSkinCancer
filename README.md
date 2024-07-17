@@ -55,8 +55,11 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
  
 **Conclusions** 
 The training accuracy seems to be nearly ~80%.
+
 The validation accuracy is nearly ~70%.
+
 Though the model accuracy has improved, the class rebalance has helped treat the overfitting to some extent.
+
 Much better models could be built or tried out using more epochs and more layers.
 
 
