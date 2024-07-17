@@ -59,6 +59,7 @@ The validation accuracy is nearly ~70%.
 Though the model accuracy has improved, the class rebalance has helped treat the overfitting to some extent.
 Much better models could be built or tried out using more epochs and more layers.
 
+
 **Technologies Used**
 Python - 3.11.5
 
