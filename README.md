@@ -54,27 +54,19 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
   - Write your findings after the model fit, see if the issues are resolved or not?
  
 **Conclusions** 
-The training accuracy seems to be nearly ~80%.
-
-The validation accuracy is nearly ~70%.
-
-Though the model accuracy has improved, the class rebalance has helped treat the overfitting to some extent.
-
-Much better models could be built or tried out using more epochs and more layers.
+ - The training accuracy seems to be nearly ~80%.
+ - The validation accuracy is nearly ~70%.
+ - Though the model accuracy has improved, the class rebalance has helped treat the overfitting to some extent.
+ - Much better models could be built or tried out using more epochs and more layers.
 
 
 **Technologies Used**
-Python - 3.11.5
-
-Pandas - 2.0.3
-
-matplotlib - 3.7.2
-
-seaborn - 0.12.2
-
-Keras
-
-TensorFlow
+ - Python - 3.11.5
+ - Pandas - 2.0.3
+ - matplotlib - 3.7.2
+ - seaborn - 0.12.2
+ - Keras
+ - TensorFlow
 
 
 **Acknowledgements**
